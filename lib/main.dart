@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Public Chat',
+      title: 'My Chat',
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: baseColorScheme,

@@ -137,7 +137,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Public Chat'),
+        title: const Text('My Chat'),
         actions: [
           IconButton(
             icon: const Icon(Icons.logout),
